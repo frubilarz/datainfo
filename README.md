@@ -20,3 +20,12 @@ cd ~/datainfo/cobol
 cobc -x main.cbl
 ./main
 ~~~
+
+## PHP
+
+Se incluye una implementación del cifrado [ROT13](http://es.wikipedia.org/wiki/ROT13), para probarlo ingresa lo siguiente en la terminal:
+
+~~~bash
+cd ~/datainfo/php
+echo Probando la plataforma de informatica| php main.php
+~~~
