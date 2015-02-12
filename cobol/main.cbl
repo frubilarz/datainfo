@@ -2,5 +2,6 @@
 000200 IDENTIFICATION DIVISION.
 000300 PROGRAM-ID. hello.
 000400 PROCEDURE DIVISION.
-000500     DISPLAY "Cobol, monstruo de lenguaje -- Héctor Pincheira".
-000600     STOP RUN.
+000500     DISPLAY 'Cobol, un monstruo de lenguaje
+000600- '-- Sir Héctor Pincheira'.
+000700     STOP RUN.
