@@ -11,3 +11,12 @@ El algoritmo que incluimos se llama [Quicksort](http://es.wikipedia.org/wiki/Qui
 cd ~/datainfo/python
 python main.py
 ~~~
+
+## Cobol
+
+Se incluye un "Hola mundo!" en Cobol, para probarlo ingresa lo siguiente en la terminal:
+~~~bash
+cd ~/datainfo/cobol
+cobc -x main.cbl
+./main
+~~~
