@@ -29,3 +29,12 @@ Se incluye una implementación del cifrado [ROT13](http://es.wikipedia.org/wiki/
 cd ~/datainfo/php
 echo Probando la plataforma de informatica| php main.php
 ~~~
+
+## Ruby
+
+Se incluye el [Algoritmo de Gauss-Legendre](http://es.wikipedia.org/wiki/Algoritmo_de_Gauss-Legendre), para realizar cálculos de [PI](http://es.wikipedia.org/wiki/N%C3%BAmero_%CF%80), para probarlo ingresa lo siguiente en la terminal:
+
+~~~bash
+cd ~/datainfo/ruby
+ruby main.rb
+~~~
